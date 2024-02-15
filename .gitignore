@@ -1,0 +1,8 @@
+a
+CMakeFiles
+.vscode
+CmakeCache*
+Makefile
+Cmake*
+*.make
+*.log
